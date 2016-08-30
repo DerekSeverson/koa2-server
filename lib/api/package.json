@@ -1,0 +1,8 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Module of all Actions or Controllers for Koa Server RESTful API used by routes.js.",
+  "author": "",
+  "license": "UNLICENSED",
+  "private": true
+}
